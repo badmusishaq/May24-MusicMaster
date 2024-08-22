@@ -1413,6 +1413,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7039612701620360210}
   - component: {fileID: 2808219160047856982}
+  - component: {fileID: 2928253739728110322}
   m_Layer: 0
   m_Name: Dancer_Mohit
   m_TagString: Untagged
@@ -1458,6 +1459,19 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &2928253739728110322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6783439375312819287}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecbe0c8f1552d7141ab9d012e40d69b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _favoriteSong: {fileID: 8300000, guid: c0af25c15e037e847afc56d1ce4cb961, type: 3}
 --- !u!1 &6899855939207192245
 GameObject:
   m_ObjectHideFlags: 0
