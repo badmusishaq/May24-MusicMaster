@@ -651,6 +651,7 @@ GameObject:
   m_Component:
   - component: {fileID: 9116254158083453488}
   - component: {fileID: 3115455442846713326}
+  - component: {fileID: -8217253963967114304}
   m_Layer: 0
   m_Name: DancingRacoonColby
   m_TagString: Untagged
@@ -696,6 +697,19 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-8217253963967114304
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4397798610467568147}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ecbe0c8f1552d7141ab9d012e40d69b9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _favoriteSong: {fileID: 8300000, guid: 681175fc04272fe4a932b7bd68e0d7a9, type: 3}
 --- !u!1 &4440642214333294240
 GameObject:
   m_ObjectHideFlags: 0
